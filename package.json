@@ -1,0 +1,14 @@
+{
+  "name": "lbd-wx-sdk",
+  "version": "1.0.5",
+  "main": "./src/es6/index.js",
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "babel-loader": "^8.0.6"
+  },
+  "dependencies": {
+    "castle-haozijunqaq-utils": "^1.7.6",
+    "weixin-js-sdk": "^1.4.0-test"
+  }
+}
